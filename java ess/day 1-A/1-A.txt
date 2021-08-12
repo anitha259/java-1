@@ -1,0 +1,18 @@
+INTERPRETER :
+ 
+             * It takes less amount of time to analyze the source code.
+               however, the overall execution time is comparatively slower than compilers.
+
+             * No object code i generated, hence are memory efficient.
+
+             * Programming language like javascript, python, ruby use interpreter.
+
+
+COMPILER    :
+
+             * Compiler usually take a large amount of time to analyze the source code.
+               however, the overall execution time is comparatively faster than interpreter.
+
+             * Generates Object code which further requires linking, hence requires more memory.
+
+             * Programming language like c, c++ , java use compiler.
